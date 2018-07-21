@@ -1,6 +1,8 @@
 <h1 align="center">Rusty 🛠 - A material inspired zsh prompt</h1>
 
-![rusty preview](previews/rusty-preview.png)
+<div align="center">
+  <img src="previews/rusty-preview.png" alt="Rusty prompt preview"/>
+</div>
 
 ## Install
 
